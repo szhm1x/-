@@ -1,0 +1,1 @@
+Coloca aquí tu video (ej: mensaje.mp4) y actualiza 'video.archivo' en js/config.js
