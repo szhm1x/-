@@ -1,1 +1,0 @@
-Coloca aquí tus fotos (ej: timeline-1.jpg, recuerdo-1.jpg) y referencia sus rutas en js/config.js
