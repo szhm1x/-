@@ -1,0 +1,1 @@
+Coloca aquí tu archivo de audio (ej: cancion.mp3) y actualiza 'musica.archivo' en js/config.js
